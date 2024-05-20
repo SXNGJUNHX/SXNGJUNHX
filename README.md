@@ -1,6 +1,6 @@
 # SXNGJUNHX
 <hr>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SXNGJUNHX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameSXNGJUNHX&layout=compact)
 
 https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
